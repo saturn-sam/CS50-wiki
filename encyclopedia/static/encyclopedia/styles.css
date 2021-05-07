@@ -1,0 +1,120 @@
+
+body{
+    background-color: white;
+}
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.entry{
+    font-size: 26px;
+    margin-left: 16px;
+}
+
+
+.logo{
+    font-size: 80px;
+    font-weight: 400;
+}
+
+.charfield1{
+    border: none;
+    font-size: 20px;
+    margin-left: 10px;
+    background-color: white;
+    margin-top: 10px;
+}
+
+
+
+.search{
+    font-size: 80px;
+    font-size: 15px;
+    line-height: 15px;
+}
+
+/* h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+} */
+
+
+textarea {
+    height: 30vh;
+    width:  800px;
+    font-size: 16px;
+}
+
+/* .save{
+    font-size: 16px;
+} */
+
+.main {
+    padding: 10px;
+    margin: 10px;
+}
+
+.search {
+    width: 100%;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.sidebar {
+    background-color: #585757;
+    color: #fff;
+    height: 100vh;
+    padding: 30px;
+    width: 18%;
+    margin: 0px;
+}
+
+.nav-menu{
+    font-size: 20px;
+    color:#fcf7f7;
+}
+
+.nav-menu:hover{
+    color:grey;
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    font-size: 20px;
+
+}
+
+li a{
+    color:#000000;
+}
+
+li a:hover{
+    color:#2fa542;
+    text-decoration: none;
+}
+
+
+.wiki{
+    padding: 20px; 
+    font-size: 16px;
+}
+
+
+.error{
+    padding: 30px;
+}
+
+.content{
+    font-size: 16px;
+}
+
+.display-2{
+    padding-bottom: 10px ;
+    font-size: 66px;
+    border-bottom: 1px solid #ededed;
+    margin-bottom: 20px;
+}
